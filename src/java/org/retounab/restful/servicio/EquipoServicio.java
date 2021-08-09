@@ -7,7 +7,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 import org.retounab.restful.conexionSQL.ConexionSQL;
-import org.retounab.restful.modelo.Articulo;
 import org.retounab.restful.modelo.Equipo;
 
 public class EquipoServicio {
